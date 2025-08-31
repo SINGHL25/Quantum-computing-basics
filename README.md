@@ -17,3 +17,36 @@ git clone https://github.com/YOUR_USERNAME/quantum-computing-learning.git
 cd quantum-computing-learning
 pip install -r requirements.txt
 python main.py
+quantum-computing-basics/
+│── README.md
+│── requirements.txt
+│── .gitignore
+│── main.py
+│
+├── docs/
+│   ├── intro.md
+│   ├── use_cases.md
+│   └── references.md
+│
+├── notebooks/
+│   ├── 01_qubit_basics.ipynb
+│   ├── 02_superposition_entanglement.ipynb
+│   ├── 03_quantum_gates.ipynb
+│   ├── 04_grovers_algorithm.ipynb
+│   ├── 05_shors_algorithm.ipynb
+│   └── 06_quantum_fourier.ipynb
+│
+├── src/
+│   ├── circuits.py
+│   ├── simulators.py
+│   ├── visualizer.py
+│   └── utils.py
+│
+├── tests/
+│   ├── test_circuits.py
+│   ├── test_grovers.py
+│   └── test_shors.py
+│
+└── results/
+    ├── screenshots/
+    └── plots/
