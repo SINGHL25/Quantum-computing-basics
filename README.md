@@ -1,4 +1,5 @@
 # Quantum-computing-basics
+<img width="2048" height="2048" alt="Quantum Computing " src="https://github.com/user-attachments/assets/c23ea836-1158-41f4-aec1-5cf5aee69707" />
 
 # Quantum Computing Learning Repo 🧑‍💻⚛️
 
