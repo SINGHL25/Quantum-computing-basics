@@ -1,4 +1,11 @@
 
+
+---
+
+## `requirements.txt`
+```txt
 qiskit
 matplotlib
+numpy
+jupyter
 pytest
